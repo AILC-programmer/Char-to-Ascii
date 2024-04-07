@@ -1,0 +1,33 @@
+E:\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.AssemblyReference.cache
+E:\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.SuggestedBindingRedirects.cache
+E:\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.MainForm.resources
+E:\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.Properties.Resources.resources
+E:\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.GenerateResource.cache
+E:\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.CoreCompileInputs.cache
+E:\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.exe.config
+E:\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.exe
+E:\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.pdb
+E:\C#\CharToAscii\CharToAscii\obj\Debug\Char to unicode.exe
+E:\C#\CharToAscii\CharToAscii\obj\Debug\Char to unicode.pdb
+E:\Projects\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.exe.config
+E:\Projects\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.exe
+E:\Projects\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.pdb
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.AssemblyReference.cache
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.SuggestedBindingRedirects.cache
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.MainForm.resources
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.Properties.Resources.resources
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.GenerateResource.cache
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\Char to unicode.exe
+E:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\Char to unicode.pdb
+D:\Projects\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.exe.config
+D:\Projects\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.exe
+D:\Projects\C#\CharToAscii\CharToAscii\bin\Debug\Char to unicode.pdb
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.AssemblyReference.cache
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.MainForm.resources
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.Properties.Resources.resources
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.GenerateResource.cache
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\CharToAscii.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\Char to unicode.exe
+D:\Projects\C#\CharToAscii\CharToAscii\obj\Debug\Char to unicode.pdb

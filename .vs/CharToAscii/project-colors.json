@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a8c387a-43fc-482a-b2da-ec740c221875": {
+      "ProjectGuid": "1a8c387a-43fc-482a-b2da-ec740c221875",
+      "DisplayName": "CharToAscii",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
